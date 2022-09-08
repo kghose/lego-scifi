@@ -44,7 +44,7 @@ before the engine pack at the end.
 
 ## 2022.09.05
 
-![Conical form](iteration5.jpg)
+![Conical form](iteration5-2022.09.05.jpg)
 
 The conical form ([Iteration 5](iteration5.io) and family) has the following drawbacks:
 

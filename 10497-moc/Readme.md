@@ -1,5 +1,37 @@
 # Build diary
 
+## 2022.09.08
+
+It won't be everyone's cup of tea, but I'm really excited by Iteration 6
+(which has now morphed to a Diamond form). The petal airlock will go between the
+main cabin and the engine pod. 
+
+This uses most of the panels to give a large habitable space. Most of the bricks
+are used to create the bottom of the cabin (right above/next to the airlock),
+and some will be needed for the frame of the canopy.
+
+The iconic brick built arrow gives us lineage from the official 10497 and gives
+us some wall for fewer bricks.
+
+The sloping canopy + frame pays homage to the 10497's sloping cabin AND sets the
+tone for our diamond motif AND doubles down on slopes by having two oppositely
+sloping canopies.
+
+![Diamond form](iteration6-2022.09.08.jpg)
+
+
+## 2022.09.06
+
+I went back and took a second look at iteration 6 (Triangle form, where the two
+canopies touch at the tips, their edges forming sides of a triangle.) After
+fiddling a bit, and thinking about the design as I went to sleep, I think I have
+an interesting, playable model with a petal airlock and nice lines and good use
+of the plates to give us a large interior space.
+
+The top of it will be two slanted surfaces that take the basic idea from the
+10497's slanted cabin, but do this twice, forming the triangle described.
+
+
 ## 2022.09.05
 
 After struggling a bit with iteration 5, I'm going back to an earlier idea of

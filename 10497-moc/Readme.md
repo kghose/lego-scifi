@@ -2,6 +2,20 @@
 
 ## 2022.09.08
 
+I want to call [it](iteration6.1.io) "The Stingray".
+
+![Stingray](iteration6-2022.09.09.jpg)
+
+I've dropped all the earlier fancy building approaches in favor of a simpler,
+more robust studs up construction that still lets me create these nice angles
+and use the available plates to create a large living space. This one _feels_
+smaller than the earlier Iteration 6, but I can't figure out why. The "floor" of
+the cabin (above the airlock) isn't done in the new one, and that could be the
+reason why.
+
+
+## 2022.09.08
+
 It won't be everyone's cup of tea, but I'm really excited by Iteration 6
 (which has now morphed to a Diamond form). The petal airlock will go between the
 main cabin and the engine pod. 

@@ -1,5 +1,22 @@
 # Build diary
 
+## 2022.09.11
+
+Finally! I think I've got a decent way to mount the canopies and reinforce the
+diamond structure. I think I have the airlock the way I want it. 
+
+![Stingray](iteration6-2022.09.11.jpg)
+
+The technic beam has holes that can look ugly to some, and with some more work,
+I could lay plates over it to cover it up, but I am happy with how it is now.
+
+This [snot] page came in useful for the 90 degree geometry, and this one for [45
+degree geometry][fortyfive].
+
+[snot]: https://bricknerd.com/home/snot-basics-geometry-techniques-and-pitfalls-3-18-2021
+[fortyfive]: https://bricks.stackexchange.com/questions/2997/what-techniques-can-be-used-for-laying-plates-at-45-angle
+
+
 ## 2022.09.08
 
 I want to call [it](iteration6.1.io) "The Stingray".

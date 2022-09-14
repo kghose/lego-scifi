@@ -1,5 +1,22 @@
 # Build diary
 
+## 2022.09.13
+
+[Latest file](iteration6.2.better-frame.io)
+
+![Stingray](iteration6-2022.09.13.jpg)
+
+1. Vastly improved frame, predicted to be much more rigid and strong.
+1. Went back to the single beam tail. Tail is still rotated 90 degrees w.r.t
+   main cabin.
+1. The airlock is greatly reduced in size in anticipation of making the cabin
+   detachable. 
+1. Changed how the tail attaches to the beam.
+1. Need to add in the new engine design.
+
+![Stingray frame](iteration6-2022.09.13-frame-design.jpg)
+
+
 ## 2022.09.11
 
 Finally! I think I've got a decent way to mount the canopies and reinforce the

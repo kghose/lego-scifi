@@ -1,5 +1,15 @@
 # Build diary
 
+## 2022.09.14
+
+![Stingray](iteration6-2022.09.13.jpg)
+
+In this orientation, it looks a bit like a fish, which I don't like, but perhaps
+with proper greebling it will look better. I want to get back to the engine pack
+from 2022.09.11 and maybe even rotate it back into plane with the main cabin.
+Let's see.
+
+
 ## 2022.09.13
 
 [Latest file](iteration6.2.better-frame.io)

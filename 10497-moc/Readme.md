@@ -2,7 +2,7 @@
 
 ## 2022.09.14
 
-![Stingray](iteration6-2022.09.13.jpg)
+![Stingray](iteration6-2022.09.14.jpg)
 
 In this orientation, it looks a bit like a fish, which I don't like, but perhaps
 with proper greebling it will look better. I want to get back to the engine pack

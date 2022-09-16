@@ -1,5 +1,15 @@
 # Build diary
 
+
+## 2022.09.15
+
+Worked on the airlock door area. It's coming along decently. I think when I
+enlarge the engine section, teh ship won't look so lop-sided, even if the engine
+"plane" is perpendicular to the main cabin.
+
+![Stingray](iteration6-2022.09.15.jpg)
+
+
 ## 2022.09.14
 
 ![Stingray](iteration6-2022.09.14.jpg)

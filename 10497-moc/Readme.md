@@ -1,5 +1,23 @@
 # Build diary
 
+## 2022.09.19
+
+![Stingray](iteration6-2022.09.19.jpg)
+
+One possible configuration. I can't fit a slider airlock in this space now, and
+will try a conventional swing out airlock door. I've rotated the engine pack
+back into the "plane" of the main cabin.
+
+
+## 2022.09.17
+
+6.1 looks more elegant to me than 6.2. At first I thought it was because the
+engine pack wasn't built in 6.2, but then I realized the base of 6.2 is deeper
+(there is more past the "arrowhead".)
+
+The cabin space I gained by adding the two layers of bricks is not so playable.
+I want to try removing it and seeing if the ship looks more elegant that way.
+The trick will be to fit the airlock door slder in that space.
 
 ## 2022.09.15
 

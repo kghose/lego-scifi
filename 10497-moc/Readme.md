@@ -2,6 +2,29 @@
 
 ## 2022.09.19
 
+![Stingray](iteration6-2022.09.20.jpg)
+
+Now we're cookin'. This looks much better. 
+
+The aft section (cargo/work bay + engines) is detachable, which gives an
+important meaning to the arrow.
+
+I have a decent sized cargo/workbay with swing-aside doors (They were swing-up
+originally, but I like these too).
+
+The engine pack is in and the engine radiators (4 large triangle wedges) are
+nicely fitted. I think I will discard the rocket engine (the one on top with the
+barrel: It's too much.)
+
+The proportions look good. 
+
+TODO:
+1. Finish the cargo/work bay. I hope I have enough blue bricks.
+2. Finish the aft bulkhead of the main cabin + swing out airlock
+
+
+## 2022.09.19
+
 ![Stingray](iteration6-2022.09.19.jpg)
 
 One possible configuration. I can't fit a slider airlock in this space now, and
@@ -22,7 +45,7 @@ The trick will be to fit the airlock door slder in that space.
 ## 2022.09.15
 
 Worked on the airlock door area. It's coming along decently. I think when I
-enlarge the engine section, teh ship won't look so lop-sided, even if the engine
+enlarge the engine section, the ship won't look so lop-sided, even if the engine
 "plane" is perpendicular to the main cabin.
 
 ![Stingray](iteration6-2022.09.15.jpg)

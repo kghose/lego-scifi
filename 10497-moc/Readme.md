@@ -1,5 +1,15 @@
 # Build diary
 
+## 2022.09.21
+
+![Stingray](iteration6-2022.09.21-whole.jpg)
+
+![Airlock door](iteration6-2022.09.21-door.jpg)
+
+Worked on the airlock door, airlock and aft section. In a few days, will be able
+to move on to main cabin interior details, and then exterior details. Still
+working on where to stow the space scooters.
+
 ## 2022.09.19
 
 ![Stingray](iteration6-2022.09.20.jpg)

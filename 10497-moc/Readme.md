@@ -1,5 +1,14 @@
 # Build diary
 
+## 2022.09.22
+
+![Stingray](iteration6-2022.09.22.jpg)
+
+Good progress on the air-lock doors. They are now space scooter launch pads:
+see how I snuck in the rails, making up for not having sliding airlock doors?
+The play features just went up 100%. Yes, I am pleased with myself, let me enjoy
+the moment.
+
 ## 2022.09.21
 
 ![Stingray](iteration6-2022.09.21-whole.jpg)

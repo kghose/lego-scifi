@@ -1,5 +1,13 @@
 # Build diary
 
+## 2022.09.24
+
+Have started building it with real bricks. The aft section looks excellent, and
+is sturdy. The outer doors needed a latch (too heavy for the hinge, and swing
+out on their own). The outer door hinges also needed reinforcement. I'm not
+happy with the sturdiness of prow of the ship: looking into reinforcement ideas.
+
+
 ## 2022.09.22
 
 ![Stingray](iteration6-2022.09.22.jpg)

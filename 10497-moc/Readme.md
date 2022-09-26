@@ -202,7 +202,7 @@ before the engine pack at the end.
 
 ![Conical form](iteration5-2022.09.05.jpg)
 
-The conical form ([Iteration 5](iteration5.io) and family) has the following drawbacks:
+The conical form ([Iteration 5](Old/iteration5.io) and family) has the following drawbacks:
 
 1. The shape looks a bit bulky/blocky, which may be how deep spacecraft might
    actually look, but looks boring from a play perspective. 

@@ -1,5 +1,22 @@
 # Build diary
 
+## 2022.09.25
+
+![Stingray](iteration6-2022.09.25.jpg)
+
+Good progress: 
+* Outer door hinge much sturdier.
+* Outer doors look cooler
+* Air-lock door hinges inwards now.
+* Made jetpacks cooler.
+
+Todo:
+1. Make main cabin frame more rigid.
+2. Clean up aft part of main cabin (around air-lock).
+3. Add beds, instruments, and other interior details.
+4. Main cabin exterior details.
+
+
 ## 2022.09.24
 
 Have started building it with real bricks. The aft section looks excellent, and
@@ -7,6 +24,9 @@ is sturdy. The outer doors needed a latch (too heavy for the hinge, and swing
 out on their own). The outer door hinges also needed reinforcement. I'm not
 happy with the sturdiness of prow of the ship: looking into reinforcement ideas.
 
+The jet pack launch rails look cool, but the pack sticks a bit when I close the
+doors. Need to find a way to nudge the pack up a tad when it is resting in the
+rails. 
 
 ## 2022.09.22
 
@@ -90,7 +110,7 @@ Let's see.
 
 ## 2022.09.13
 
-[Latest file](iteration6.2.better-frame.io)
+[Latest file](https://github.com/kghose/lego-scifi/blob/a5d9d7cec1f2cb75d2920e314214b9495e73961c/10497-moc/iteration6.2.better-frame.io)
 
 ![Stingray](iteration6-2022.09.13.jpg)
 

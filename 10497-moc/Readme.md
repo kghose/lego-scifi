@@ -1,4 +1,59 @@
+# Sting Ray: Deep space explorer (MOC): Alternate build for the 10497 set
+
+## Play features
+
+TODO 
+
+
+## Potential weak points of the model
+
+1. The gap between the canopy and the frame. This bothers me a little, but not
+   enough to spend a lot of time trying to patch up the gap.
+1. There are gaps everywhere, especially the holes from the technic beams in the
+   front of the main cabin. I'm ok with this. LEGO requires a bunch of
+   imagination. I think the model is very playable, so I didn't worry too much
+   that it's not "airtight".
+1. Exposed technic beams. I actually like this aesthetic.
+
+
+
+## Why?
+
+Of course at some level this question does not need to be asked: LEGO
+blocks invite everyone to use their imagination to make their own creations. 
+
+I bought this particular set because, like a lot of people, I could not get the
+original 497 and had to satisfy myself with drooling over the catalog.
+
+After building the 10497, I was unsatisfied by the space-shuttle inspired
+shape. I wanted to build a deep space explorer that had no need for a lifting
+body (wings etc). 
+
+The huge number of parts in the 10497, especially the wing wedges and the
+liberal use of technic members called to me. I felt I could build a bigger
+spaceship that looked like it _belonged_ in space, rather than just a fast
+looking spacey plane.
+
+For fun, I challenged myself to just using the pieces in the 10497, so I can say
+this is a genuine alt-build of 10497, since you don't need any extra pieces.
+
+I paid homage to the 10497 in two places: 
+
+1. I retained the innovative brick built arrow, which now points where the
+   action is (the cargo bay doors and the craft docking line).
+2. I transformed the "beds" into jetpacks because I think jetpacks that
+   accommodate the astronaut's life support packs are way cooler than beds.
+
+
 # Build diary
+
+## 2022.09.26
+
+![Stingray air lock](iteration6-2022.09.26-air-lock.jpg)
+
+Working on air-lock door and aft ("floor") of main cabin. After a bunch of
+fiddling, I think I'm going in the right direction.
+
 
 ## 2022.09.25
 
@@ -13,9 +68,11 @@ Good progress:
 Todo:
 1. Make main cabin frame more rigid.
 2. Clean up aft part of main cabin (around air-lock).
-3. Add beds, instruments, and other interior details.
+3. Add medical bed, beds, instruments, and other interior details.
 4. Main cabin exterior details.
-
+5. Handle gap between canopy and frame.
+6. Short experiment with technic beams outside cabin, rather than inside.
+7. Space robot and space robot's vehicle? Attached to dorsal surface?
 
 ## 2022.09.24
 

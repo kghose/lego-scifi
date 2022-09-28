@@ -4,6 +4,13 @@
 
 TODO 
 
+## Homages to 10497
+
+1. I retained the innovative brick built arrow, which now points where the
+   action is (the cargo bay doors and the craft docking line).
+2. I transformed the "beds" into jetpacks because I think jetpacks that
+   accommodate the astronaut's life support packs are way cooler than beds.
+
 
 ## Potential weak points of the model
 
@@ -15,6 +22,9 @@ TODO
    that it's not "airtight".
 1. Exposed technic beams. I actually like this aesthetic.
 
+### Could the model be bigger?
+
+This design doesn't use all the panels available in 10497. I had a design ([Conical form](Old/iteration5.io))
 
 
 ## Why?
@@ -30,22 +40,24 @@ shape. I wanted to build a deep space explorer that had no need for a lifting
 body (wings etc). 
 
 The huge number of parts in the 10497, especially the wing wedges and the
-liberal use of technic members called to me. I felt I could build a bigger
+liberal use of technic members, called to me. I felt I could build a bigger
 spaceship that looked like it _belonged_ in space, rather than just a fast
 looking spacey plane.
 
 For fun, I challenged myself to just using the pieces in the 10497, so I can say
 this is a genuine alt-build of 10497, since you don't need any extra pieces.
 
-I paid homage to the 10497 in two places: 
-
-1. I retained the innovative brick built arrow, which now points where the
-   action is (the cargo bay doors and the craft docking line).
-2. I transformed the "beds" into jetpacks because I think jetpacks that
-   accommodate the astronaut's life support packs are way cooler than beds.
 
 
 # Build diary
+
+## 2022.09.27
+
+Still fiddling with the aft of main cabin and the airlock. After a long
+experiment with a sliding door, I went back to a swing-out door, but fixed
+the cargo bay to accommodate the swing out (I had designed the cargo bay to
+accommodate a swing-out door, but mistakenly used 2x6 tile pieces for the top of
+the bay, which blocked the door). Now working on the floor of the main cabin.
 
 ## 2022.09.26
 

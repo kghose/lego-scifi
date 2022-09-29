@@ -57,6 +57,12 @@ looking spacey plane.
 For fun, I challenged myself to just using the pieces in the 10497, so I can say
 this is a genuine alt-build of 10497, since you don't need any extra pieces.
 
+# Copyright
+
+Design copyright Kaushik Ghose (2022). All rights reserved. You may not use this
+design (or any designs here) for commercial purposes, such as selling the
+instructions or selling the design as a LEGO or LEGO compatible set at any
+scale.
 
 
 # Build diary

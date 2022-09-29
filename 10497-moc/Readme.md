@@ -1,8 +1,13 @@
-# Sting Ray: Deep space explorer (MOC): Alternate build for the 10497 set
+# (MOC) Stingray: Deep space explorer. Alternate build for 10497
 
 ## Play features
 
-TODO 
+1. Spacious main cabin with bridge, medi-bay, sleeping bays and more.
+1. Lift-off panel for easy accessibility to main cabin.
+1. Cargo bay with large swing out doors that launch jetpacks.
+1. Air-lock separates shirt sleeves main cabin environment from cargo bay.
+1. Cargo bay can be separated from main cabin, which turns into self-contained
+   spaceship for shorter missions requiring more maneuverability.
 
 ## Homages to 10497
 
@@ -10,7 +15,9 @@ TODO
    action is (the cargo bay doors and the craft docking line).
 2. I transformed the "beds" into jetpacks because I think jetpacks that
    accommodate the astronaut's life support packs are way cooler than beds.
-
+3. Not exactly a homage, but I embraced the "brick built arrow" theme and made
+   the whole spaceship look like an arrow. Calling it "The Brick Arrow,"
+   however, would have been a bit much.
 
 ## Potential weak points of the model
 
@@ -24,7 +31,10 @@ TODO
 
 ### Could the model be bigger?
 
-This design doesn't use all the panels available in 10497. I had a design ([Conical form](Old/iteration5.io))
+This design doesn't use all the panels available in 10497. I had a design 
+([Conical form](Old/iteration5.io)) that used all the panels and had a lot of
+habitable space, but it looked a bit boring (see build diary below for
+pictures).
 
 
 ## Why?
@@ -50,6 +60,26 @@ this is a genuine alt-build of 10497, since you don't need any extra pieces.
 
 
 # Build diary
+
+## 2022.09.28
+
+Major progress!
+    
+![Stingray](iteration6-2022.09.28.jpg)
+
+1. Airlock door and cabin aft finalized!
+2. Fantastic bridge! Which also helps ...
+3. Make nose of the frame sturdier.
+4. Close up canopy gap.
+5. Medical bed.
+
+![Main cabin front](iteration6-2022.09.28-front.jpg)
+![Main cabin rear](iteration6-2022.09.28-rear.jpg)
+
+Todo:
+1. Add beams to the aft-lateral sloping parts to strengthen the corners. Have to
+   work around the canopy fairing.
+2. Regular beds, work station (to use the remaining computer displays) 
 
 ## 2022.09.27
 

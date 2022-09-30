@@ -2,12 +2,13 @@
 
 ## Play features
 
-1. Spacious main cabin with bridge, medi-bay, sleeping bays and more.
+1. Spacious main cabin with bridge, medi-bay, sleeping bays and workstations.
 1. Lift-off panel for easy accessibility to main cabin.
-1. Cargo bay with large swing out doors that launch jetpacks.
+1. Cargo bay with large swing out doors that launch astronauts in jetpacks.
+1. Jetpacks!
 1. Air-lock separates shirt sleeves main cabin environment from cargo bay.
-1. Cargo bay can be separated from main cabin, which turns into self-contained
-   spaceship for shorter missions requiring more maneuverability.
+1. Main cabin can separate from cargo bay + engine module and function as a
+   self-contained spaceship for shorter missions requiring more maneuverability.
 
 ## Homages to 10497
 
@@ -15,19 +16,18 @@
    action is (the cargo bay doors and the craft docking line).
 2. I transformed the "beds" into jetpacks because I think jetpacks that
    accommodate the astronaut's life support packs are way cooler than beds.
-3. Not exactly a homage, but I embraced the "brick built arrow" theme and made
-   the whole spaceship look like an arrow. Calling it "The Brick Arrow,"
-   however, would have been a bit much.
+3. More meta than homage, I embraced the "brick built arrow" theme and made the
+   whole spaceship look like an arrow. Calling it "The Brick Arrow," however,
+   would have been a bit much.
 
 ## Potential weak points of the model
 
-1. The gap between the canopy and the frame. This bothers me a little, but not
-   enough to spend a lot of time trying to patch up the gap.
-1. There are gaps everywhere, especially the holes from the technic beams in the
-   front of the main cabin. I'm ok with this. LEGO requires a bunch of
-   imagination. I think the model is very playable, so I didn't worry too much
-   that it's not "airtight".
-1. Exposed technic beams. I actually like this aesthetic.
+1. There are small gaps everywhere, especially the holes from the technic beams
+   in the front of the main cabin. I think the model is very playable and
+   displayable, so I didn't worry too much that it's not "airtight".
+1. Exposed technic beams. I rather like this aesthetic - my favorite themes are
+   space and technic, and this set has a lot of both, so I like that we can see
+   both very prominently in the Stingray.
 
 ### Could the model be bigger?
 
@@ -61,11 +61,27 @@ this is a genuine alt-build of 10497, since you don't need any extra pieces.
 
 Design copyright Kaushik Ghose (2022). All rights reserved. You may not use this
 design (or any designs here) for commercial purposes, such as selling the
-instructions or selling the design as a LEGO or LEGO compatible set at any
-scale.
+instructions or design in any form, including as a LEGO or LEGO compatible set,
+at any scaling factor.
 
 
 # Build diary
+
+## 2022.09.29
+
+![Stingray cabin](iteration6-2022.09.29.jpg)
+
+Redesigned bridge mounting. This should give more headroom in the lower level,
+but I'm not sure that it does. The mounting looks neater, at any rate, and is
+completely legal (The previous version required us to slide out the blue pins
+ever so slightly, to make the axle-pin connectors mate with the frame). 
+
+CUP HOLDERS!!
+
+TODO:
+1. Add beams to the aft-lateral sloping parts to strengthen the corners. Have to
+   work around the canopy fairing. Requires medi-bed modification.
+2. Regular beds, work station (to use the remaining computer displays) 
 
 ## 2022.09.28
 

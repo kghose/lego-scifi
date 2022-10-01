@@ -67,6 +67,31 @@ at any scaling factor.
 
 # Build diary
 
+## 2022.09.30
+
+Are we done? I'd say V1.0 is (almost) ready to build.
+
+![Stingray cabin](iteration6-2022.09.30-in-flight.jpg)
+
+![Stingray cabin](iteration6-2022.09.30.jpg)
+
+![Stingray cabin](iteration6-2022.09.30-cabin.jpg)
+
+1. Aft-lateral beams strengthened
+2. Beds done
+3. Corner office done
+4. Medical bed revised
+5. Bridge revised
+
+In the model I discovered that there is a slight offset with the long horizontal
+lift-arms (they don't exactly mate with the rectangular frame lift-arm). I've
+built that part IRL, so I think it's within tolerances, though it may not be
+strictly legal. We shall see when we build it.
+
+TODO:
+1. Clean up the gaps in the aft cabin
+2. Put caps on the white brick arrows, so the tiles don't slide out.
+
 ## 2022.09.29
 
 ![Stingray cabin](iteration6-2022.09.29.jpg)

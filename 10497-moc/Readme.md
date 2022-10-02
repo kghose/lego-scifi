@@ -67,13 +67,33 @@ at any scaling factor.
 
 # Build diary
 
+## 2022.10.01
+
+Ok, let's build the v1.0 prototype and see where the problems are.
+
+![](iteration6-2022.10.01.jpg)
+
+![](iteration6-2022.10.01-top.jpg)
+
+![](iteration6-2022.10.01-side.jpg)
+
+![](iteration6-2022.10.01-cabin.jpg)
+
+1. Bridge turned around 180
+2. Swing down beds
+3. Designed corner office
+4. Extra Work-station below corner office
+
+TODO:
+1. Clean up the gaps in the aft cabin
+
 ## 2022.09.30
 
-Are we done? I'd say V1.0 is (almost) ready to build.
+Are we done? I'd say v1.0 is (almost) ready to build.
 
-![Stingray cabin](iteration6-2022.09.30-in-flight.jpg)
+![Stingray in flight](iteration6-2022.09.30-in-flight.jpg)
 
-![Stingray cabin](iteration6-2022.09.30.jpg)
+![Stingray "cut away"](iteration6-2022.09.30.jpg)
 
 ![Stingray cabin](iteration6-2022.09.30-cabin.jpg)
 

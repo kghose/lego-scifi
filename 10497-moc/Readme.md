@@ -1,14 +1,22 @@
-# (MOC) Stingray: Deep space explorer. Alternate build for 10497
+# (MOC) Stingray: Deep space explorer. (Very) Alternate build for 10497
+
+Affectionately nicknamed "Ol' Bug Eyes" by some and "The Brick Arrow" by others,
+the Stingray DSE-4 (MK I) is Bengal Shipyards' workhorse Deep Space Explorer.
+Several have been used to explore the Oort cloud for water and rare earths
+mining opportunities. 
+
+
 
 ## Play features
 
-1. Spacious main cabin with bridge, medi-bay, sleeping bays and workstations.
-1. Lift-off panel for easy accessibility to main cabin.
-1. Cargo bay with large swing out doors that launch astronauts in jetpacks.
-1. Jetpacks!
+1. Spacious main cabin with bridge, medibay, sleeping bays and workstations.
+   Plenty of space for its four-person crew.
+1. Removable top hull for easy accessibility to main cabin.
+1. Cargo bay with large swing out doors that house and launch jetpacks.
+1. Two jetpacks for closeup comet, asteroid, and ice cluster exploration.
 1. Air-lock separates shirt sleeves main cabin environment from cargo bay.
-1. Main cabin can separate from cargo bay + engine module and function as a
-   self-contained spaceship for shorter missions requiring more maneuverability.
+1. Main cabin (Child) can separate from cargo bay + engine module (Mother) and
+   function independently for shorter missions requiring more maneuverability.
 
 ## Homages to 10497
 
@@ -47,12 +55,11 @@ original 497 and had to satisfy myself with drooling over the catalog.
 
 After building the 10497, I was unsatisfied by the space-shuttle inspired
 shape. I wanted to build a deep space explorer that had no need for a lifting
-body (wings etc). 
+body (aerodynamic shape, wings, tail fins). 
 
-The huge number of parts in the 10497, especially the wing wedges and the
-liberal use of technic members, called to me. I felt I could build a bigger
-spaceship that looked like it _belonged_ in space, rather than just a fast
-looking spacey plane.
+The huge number of parts in the 10497, especially plates and technic elements,
+called to me. I felt I could build a bigger spaceship that looked like it
+_belonged_ in space, rather than just a fast looking spacey plane.
 
 For fun, I challenged myself to just using the pieces in the 10497, so I can say
 this is a genuine alt-build of 10497, since you don't need any extra pieces.
@@ -66,6 +73,57 @@ at any scaling factor.
 
 
 # Build diary
+
+## 2022.10.04
+
+Good progress on the cabin. I have managed to make separated areas - a sleep
+area, a medi-bay and a bridge. In fact, I may have too much space (!). The area
+behind the bridge I want to make a lab, but what about the area in front of the
+medical bed? Probably a quiet work area? Or drone storage?
+
+![](iteration6-2022.10.04-cabin-1.jpg)
+
+![](iteration6-2022.10.04-cabin-2.jpg)
+
+![](iteration6-2022.10.04-cabin-3.jpg)
+
+
+## 2022.10.03
+
+Built the Mother module physically. It looks even better than on CAD: I moved
+all the fins and the cargo doors simultaneously for the first time. Discovered
+that the fins have enough space to fold a full 90 degrees. Then discovered a
+beautiful surprise petal pattern.
+
+I missed iteration5 because of its petal pattern, even though it wasn't a
+feature of the spaceship, just a way to access the cabin for play. But, here is
+a petal pattern and, it's a feature of the spaceship! Funny how things work out. 
+
+
+## 2022.10.02
+
+Debating if the current cabin is the best it can be:
+
+Good:
+1. There is no "down": people work/sleep at all different angles emphasizing we
+   are in zero-G
+2. The bridge does look nice
+3. We see a lot of computer screens from outside the canopy. Things look to be
+   "happening" inside the ship, when we look in.
+
+Bad:
+1. The current cabin seems to waste a lot of space. Especially the bridge
+   because it straddles the middle of the cabin and renders the rest of the top
+   half unusable.
+2. Looks like a lot of the large canopy is blocked by structure, rather than
+   having a viewing area. Not clear if this is a negative, but it does look
+   boring from the outside and seems like a waste of nice canopy space.
+3. The bridge blocks our view into the cargo bay via the air-lock: if this view
+   is kept clear, the ship looks big from the outside when the airlock is open.
+
+So I spent time redesigning the cabin:
+
+
 
 ## 2022.10.01
 

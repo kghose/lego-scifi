@@ -74,6 +74,27 @@ at any scaling factor.
 
 # Build diary
 
+## 2022.10.05
+
+1. Flipped hammocks over and put an entertainment center in the nose: looks
+   cooler, the hammocks look like lounge seats. The medibed doesn't have any
+   entertainment center anymore - makes room for the lab, and gives sick person
+   more rest.
+2. Lab behind medi-bed.  
+3. Workshop behind bridge.
+
+![](iteration6-2022.10.05-cabin-1.jpg)
+
+![](iteration6-2022.10.05-cabin-2.jpg)
+
+![](iteration6-2022.10.05-cabin-3.jpg)
+
+![](iteration6-2022.10.05-cabin-4.jpg)
+
+TODO:
+1. eCards from home on the quiet area walls.
+
+
 ## 2022.10.04
 
 Good progress on the cabin. I have managed to make separated areas - a sleep

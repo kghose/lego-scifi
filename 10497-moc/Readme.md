@@ -74,6 +74,23 @@ at any scaling factor.
 
 # Build diary
 
+## 2022.10.06
+
+![](iteration6-2022.10.06-ship-3.jpg)
+![](iteration6-2022.10.06-ship-1.jpg)
+![](iteration6-2022.10.06-ship-2.jpg)
+
+Ok, I'm finally happy with the cabin.
+1. Moved the medibed back to give lab more room.
+2. Redesigned lab
+3. Replaced workshop with "The Facilities"
+
+![](iteration6-2022.10.06-cabin-1.jpg)
+![](iteration6-2022.10.06-cabin-2.jpg)
+![](iteration6-2022.10.06-cabin-3.jpg)
+![](iteration6-2022.10.06-cabin-4.jpg)
+
+
 ## 2022.10.05
 
 1. Flipped hammocks over and put an entertainment center in the nose: looks

@@ -74,6 +74,30 @@ at any scaling factor.
 
 # Build diary
 
+## 2022.10.08
+
+Improved aesthetics of the hulls.
+
+![](iteration6-2022.10.08-ship-1.jpg)
+![](iteration6-2022.10.08-ship-2.jpg)
+
+
+## 2022.10.07
+
+Some final tweaks to the paint scheme and hull plates for the prototype.
+
+![](iteration6-2022.10.07-ship-3.jpg)
+![](iteration6-2022.10.07-ship-1.jpg)
+![](iteration6-2022.10.07-ship-2.jpg)
+
+I think I should move the longer plates to the bottom hull, or replace them with
+narrow wedges, of which we have a surplus. 
+
+This iteration also as a small extension for the lab.
+
+![](iteration6-2022.10.07-cabin-1.jpg)
+
+
 ## 2022.10.06
 
 ![](iteration6-2022.10.06-ship-3.jpg)
